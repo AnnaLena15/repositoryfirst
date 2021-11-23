@@ -1,11 +1,17 @@
 :root{
-
+    font-size: 18px;
 }
 html{
 
 }
 .titel {
-    font-size: 48px;
-    color:aqua ;
+    font-size: 3rem;
+    color:aqua;
+    font-weight: bold;
+}
+
+.titel-h2 {
+    font-size: 2rem;
+    color: gold;
     font-weight: bold;
 }
